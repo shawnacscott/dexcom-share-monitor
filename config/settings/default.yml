@@ -1,0 +1,6 @@
+---
+facebook:
+  api_endpoint: <%= ENV.fetch('FACEBOOK_API_ENDPOINT') %>
+  user_access_token: <%= ENV.fetch('FACEBOOK_USER_ACCESS_TOKEN') %>
+  page_access_token: <%= ENV.fetch('FACEBOOK_PAGE_ACCESS_TOKEN') %>
+  page_id: <%= Integer(ENV.fetch('FACEBOOK_PAGE_ID')) %>
