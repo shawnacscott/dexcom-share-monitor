@@ -23,4 +23,4 @@ I don't know if I'm the right person to do this, but I figured I'd see how far I
 
 ## App deployment
 
-As specified by the original ask, this app must be deployable on Heroku. In order to verify that the application deploys properly, I have deployed it to my personal Heroku instance temporarily. Find it at https://shielded-reef-31272.herokuapp.com/ | https://git.heroku.com/shielded-reef-31272.git
+As specified by the original ask, this app must be deployable on Heroku. In order to verify that the application deploys properly, I have deployed it to my personal Heroku instance temporarily. Find it at https://shielded-reef-31272.herokuapp.com/ | https://git.heroku.com/shielded-reef-31272.git. It has been configured according to the defaults detailed in https://devcenter.heroku.com/articles/getting-started-with-rails6. 
