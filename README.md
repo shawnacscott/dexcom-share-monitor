@@ -1,6 +1,6 @@
 # Dexcom Share Monitor
 
-I don't know if I'm the right person to do this, but I figured I'd see how far I could get, and whether it was useful!
+I don't know if I'm the right person to do this, but I figured I'd see how far I could get, and whether it was useful! I'm not interested in the bounty for myself, so I'm just working on this to help out. If I receive a bounty, I'll just donate it to a non profit.
 
 ## The Ask
 
@@ -20,3 +20,7 @@ I don't know if I'm the right person to do this, but I figured I'd see how far I
 >We will work with any developer to provide testing information, as well as access to other resources they deem necessary or justifiable.
 >
 >Rogue Cowboys, do it again!
+
+## App deployment
+
+As specified by the original ask, this app must be deployable on Heroku. In order to verify that the application deploys properly, I have deployed it to my personal Heroku instance temporarily. FInd it at https://shielded-reef-31272.herokuapp.com/ | https://git.heroku.com/shielded-reef-31272.git
