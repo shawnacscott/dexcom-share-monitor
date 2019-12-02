@@ -23,3 +23,6 @@
 
 # Ignore *.local env files
 .env.*.local
+
+# Ignore spec metrics file
+spec/examples.txt
