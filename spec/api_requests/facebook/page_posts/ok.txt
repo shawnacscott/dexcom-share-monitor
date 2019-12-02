@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Permitted-Cross-Domain-Policies: none
+Referrer-Policy: strict-origin-when-cross-origin
+Content-Type: application/json; charset=utf-8
+ETag: W/"96cb8789873c07b96f689309a0f0c81f"
+Cache-Control: max-age=0, private, must-revalidate
+X-Request-Id: 7587351f-0b6e-45da-862b-5a317825b257
+X-Runtime: 1.185850
+Transfer-Encoding: chunked
+
+{"id":"1145684022212942_2633066010141395"}
